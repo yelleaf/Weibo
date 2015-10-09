@@ -1,0 +1,20 @@
+//
+//  TSWeiboPrefixHeader.pch
+//  weibo
+//
+//  Created by zjq on 15-10-5.
+//  Copyright (c) 2015年 zjq. All rights reserved.
+//
+
+#ifndef weibo_TSWeiboPrefixHeader_pch
+#define weibo_TSWeiboPrefixHeader_pch
+
+
+#define TScreenWidth  [UIScreen mainScreen].bounds.size.width
+#define TScreenHeight  [UIScreen mainScreen].bounds.size.height
+
+
+
+#import "UIView+Extension.h"
+#import "RuquestoAutho.h"
+#endif
